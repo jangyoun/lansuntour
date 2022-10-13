@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Ffestival\u002Fdetail","\u002Fzombi\u002Fp2"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
