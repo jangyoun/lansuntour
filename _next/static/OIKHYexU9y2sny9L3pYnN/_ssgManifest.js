@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Ffestival\u002F[id]","\u002Ftour\u002F[id]","\u002Fzombi\u002Fp2"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
